@@ -8,5 +8,6 @@ public class test1 {
         System.out.println("hot-fix test!");
         System.out.println("master test!");
         System.out.println("连接上GitHub后 第一次修改代码");
+        System.out.println("github pull test!");
     }
 }
