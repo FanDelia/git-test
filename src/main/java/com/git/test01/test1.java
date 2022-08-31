@@ -7,5 +7,6 @@ public class test1 {
         System.out.println("hello i am hot-fix!");
         System.out.println("hot-fix test!");
         System.out.println("master test!");
+        System.out.println("连接上GitHub后 第一次修改代码");
     }
 }
